@@ -1,34 +1,44 @@
-<h1> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> 안드로이드 개발자 Wasingun 입니다. </h1>
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  AI Service & Android Engineer, Wasingun 입니다.
+</h1>
 
 <p>
-E-Commerce MD업무를 오랜시간 해오다가, IT쪽에 매력을 느껴 늦게나마 개발을 공부하여, 현재 안드로이드 개발자로 업무를 진행하고 있습니다. </br>
-기술적인 면도 중요하지만, 항상 앱을 사용하는 사용자가 무엇을 필요로 하는지, 어떻게 해야 사용자에게 좋은 경험을 제공할지 고민하는 개발자가 </br>
-되고싶습니다.
+비즈니스를 이해하고, 서비스를 만들며, AI를 실제로 동작하게 구현하는 개발자입니다.<br>
+E-커머스 MD에서 안드로이드 개발자로, 다시 AI 서비스 엔지니어로.<br>
+산업의 무게중심이 어디로 이동하는지 먼저 읽고, 그 중심으로 직접 뛰어드는 것을 두려워하지 않습니다.<br>
+뛰어든 곳에서는 바닥이 보일 때까지 파고듭니다.
 </p>
 
+<h2>사용 기술</h2>
 
-<h2> 사용 기술 </h2>
+**🤖 AI & LLM**
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="vLLM" src="https://img.shields.io/badge/-vLLM-412991?style=flat-square" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="LanceDB" src="https://img.shields.io/badge/-LanceDB-FF6B35?style=flat-square" />
+  <img alt="bge--m3" src="https://img.shields.io/badge/-bge--m3-4CAF50?style=flat-square" />
+  <img alt="faster-whisper" src="https://img.shields.io/badge/-faster--whisper-607D8B?style=flat-square" />
+  <img alt="pyannote" src="https://img.shields.io/badge/-pyannote-5C6BC0?style=flat-square" />
+  <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-1a1a1a?style=flat-square" />
+</p>
+
+**📱 Android**
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-45b8d8?style=flat-square" />
-  <img alt="Jetpack_compose" src="https://img.shields.io/badge/-Jetpack_compose-CC6699?style=flat-square" />
+  <img alt="Jetpack_Compose" src="https://img.shields.io/badge/-Jetpack_Compose-CC6699?style=flat-square" />
   <img alt="Hilt" src="https://img.shields.io/badge/-Hilt-46a2f1?style=flat-square" />
-  <img alt="Gitlab_CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-2088FF?style=flat-square" />
-  <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean Architecture-1a73e8?style=flat-square" />
-  <img alt="Flow" src="https://img.shields.io/badge/-Flow-007ACC?style=flat-square" /> 
-  <img alt="Ktor" src="https://img.shields.io/badge/-Ktor-5849BE?style=flat-square" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-FB542B?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Flow" src="https://img.shields.io/badge/-Flow-007ACC?style=flat-square" />
+  <img alt="ML_Kit" src="https://img.shields.io/badge/-ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img alt="Room" src="https://img.shields.io/badge/-Room-FF6F00?style=flat-square" />
+  <img alt="BLE" src="https://img.shields.io/badge/-BLE-26A69A?style=flat-square" />
 </p>
 
-
-<h2> Where to find me </h2>
+**⚙️ Architecture & DevOps**
 <p>
-  <a href="https://github.com/wasingun" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
-  <a href="https://velog.io/@wasingun" target="_blank">
-    <img alt="velog" src="https://img.shields.io/badge/velog-%43853d.svg?&style=for-the-badge&logo=velog&logoColor=white" />
-  </a> 
-  <a href="mailto:wasingun00@gmail.com" title="wasingun00@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white" />
-  </a> 
+  <img alt="Clean_Architecture" src="https://img.shields.io/badge/-Clean_Architecture-1a73e8?style=flat-square" />
+  <img alt="MVVM/MVI" src="https://img.shields.io/badge/-MVVM/MVI-5849BE?style=flat-square" />
+  <img alt="Gitlab_CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-2088FF?style=flat-square" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-FB542B?style=flat-square&logo=git&logoColor=white" />
 </p>
